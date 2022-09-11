@@ -30,3 +30,5 @@ print('The binary equivalent of ' + str(userInput) + ' is: ' + outputString)
 - [ ] Do the Hokey-Pokey
 - [ ] Turn myself around
 - [ ] That's what it's all about!
+
+beep boop
