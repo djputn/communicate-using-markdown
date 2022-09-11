@@ -22,3 +22,11 @@ while divResult > 0:
 
 print('The binary equivalent of ' + str(userInput) + ' is: ' + outputString)
 ```
+
+- [x] Put my right hand in
+- [x] Put my right hand out
+- [x] Put my right hand in (again)
+- [ ] Shake it all about
+- [ ] Do the Hokey-Pokey
+- [ ] Turn myself around
+- [ ] That's what it's all about!
